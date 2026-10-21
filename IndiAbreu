@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Journey</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Personal Page</h1>
+        <p>A little about me, my interests, and my goals.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Me</a></li>
+            <li><a href="#interests">My Interests</a></li>
+            <li><a href="#goals">My Goals</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <article>
+                <h3>My Story</h3>
+                <p>
+                    I am a lifelong learner who enjoys discovering new
+                    skills and exploring opportunities for personal and
+                    professional growth. I am currently learning about
+                    web development and how websites are built.
+                </p>
+
+                <img
+                    src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3"
+                    alt="Laptop and workspace used for learning and working on technology"
+                    width="400"
+                >
+            </article>
+        </section>
+
+        <section id="interests">
+            <h2>My Interests</h2>
+            <p>Some things I enjoy learning about include:</p>
+
+            <ul>
+                <li>Technology and web development</li>
+                <li>Creative projects and digital design</li>
+                <li>Business and entrepreneurship</li>
+                <li>Learning new professional skills</li>
+            </ul>
+        </section>
+
+        <section id="goals">
+            <h2>My Goals</h2>
+
+            <article>
+                <h3>My Learning Journey</h3>
+                <p>
+                    My goal is to continue developing my technical
+                    skills, build projects that demonstrate what I
+                    have learned, and explore new career opportunities
+                    in technology.
+                </p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Personal Page</p>
+    </footer>
+
+</body>
+</html>
